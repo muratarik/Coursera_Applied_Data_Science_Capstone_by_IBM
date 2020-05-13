@@ -1,9 +1,7 @@
-# Coursera_Capstone
+# Capstone Project
 
-This repository is contains the files related to the capstone project as part of the Data Science Program
+Problem definition:
 
-
-Problem:
 Rhode Island is the smallest but the most crowded state in the USA. Ivy league Brown University is located at Providence.
 
 RI is famous with its restaurants and touristic places.
